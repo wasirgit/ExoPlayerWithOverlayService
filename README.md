@@ -1,3 +1,3 @@
-Exo Player with Overlay service
+Android(Java) Exo Player with Overlay service
 
 
