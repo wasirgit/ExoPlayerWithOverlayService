@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExoPlayerWithOverlay</string>
+    <string name="content_url"><![CDATA[https://www.radiantmediaplayer.com/media/bbb-360p.mp4]]></string>
+</resources>
